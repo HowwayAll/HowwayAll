@@ -30,5 +30,4 @@
 [![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/HowwayAll)
 
 ### `> repostories `
-[![Static Badge](https://img.shields.io/badge/TelegramRemotePC-black?style=flat-square&logo=github)](https://github.com/HowwayAll/TelegramRemotePC)   ![Static Badge](https://img.shields.io/badge/Private-gray?style=flat-square&logo=1password)   ![Static Badge](https://img.shields.io/badge/%E2%86%BA%20Working_On-orange?style=flat-square)
-
+[![Static Badge](https://img.shields.io/badge/TelegramRemotePC-black?style=flat-square&logo=github)](https://github.com/HowwayAll/TelegramRemotePC)
